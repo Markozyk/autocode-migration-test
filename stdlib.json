@@ -1,0 +1,6 @@
+{
+  "name": "kozman/migration-test",
+  "timeout": 10000,
+  "connector": false,
+  "events": {}
+}
